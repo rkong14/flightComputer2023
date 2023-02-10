@@ -13,3 +13,5 @@ gets and saves data from altimere and accelerometer to the sd card, the file we 
 
 <b>master sd to accel</b>
 same as sd but without accelerometer code, meant to be used on the 3in computer where the accelerometer gave out on us
+
+Also uploaded is the txt file from our launch so you can see what the master sd code outputted and the pinouts for the arduino uno and accelerometer for reference (depending on what you're working with, these may or may not be relevant).
